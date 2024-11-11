@@ -1,6 +1,8 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -18,8 +20,7 @@
 # 💫 Sobre Mí:
 🎓 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma con un sólido fondo en Comunicación Audiovisual. Mi meta es fusionar la tecnología con la creatividad para crear soluciones digitales que sean tanto funcionales como atractivas para el usuario.
 <br><br>
-💻 Intereses: Apasionada por el desarrollo y la tecnología, con una sólida formación en programación. Mi objetivo es integrar mis habilidades técnicas y creativas para crear soluciones innovadoras en el desarrollo de aplicaciones. Mi experiencia en comunicación audiovisual me ha proporcionado una perspectiva enfocada en la experiencia de usuario y el diseño, cualidades que considero fundamentales en el desarrollo de aplicaciones.  Me gusta abordar los proyectos con organización y precisión, trabajando en equipo y enfrentando retos con adaptabilidad. La atención al detalle y la capacidad para planificar eficazmente son algunas de mis fortalezas, y valoro enormemente el aprendizaje constante, especialmente en un entorno tan dinámico como el de la tecnología.<br><br>
-📕 Idiomas: Español (nativo), inglés (nivel medio-alto) y francés (DELF B1).
+💻 Intereses: Apasionada por el desarrollo y la tecnología, con una sólida formación en programación. <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture><br><br>Mi objetivo es integrar mis habilidades técnicas y creativas para crear soluciones innovadoras en el desarrollo de aplicaciones.  Mi experiencia en comunicación audiovisual me ha proporcionado una perspectiva enfocada en la experiencia de usuario y el diseño,cualidades que considero fundamentales en el desarrollo de aplicaciones.  Me gusta abordar los proyectos con organización y precisión, trabajando en equipo y enfrentando retos con adaptabilidad. La atención al detalle y la capacidad para planificar eficazmente son algunas de mis fortalezas, y valoro enormemente el aprendizaje constante, especialmente en un entorno tan dinámico como el de la tecnología.<br><br>
 
 🔜 Actualmente, estoy buscando oportunidades para aplicar mis habilidades técnicas y creativas en desarrollo de software, y colaborar con otros profesionales del sector. 
 
