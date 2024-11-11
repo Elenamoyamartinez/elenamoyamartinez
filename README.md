@@ -33,4 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elenamoyamartinez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elenamoyamartinez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
